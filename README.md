@@ -1,5 +1,10 @@
 # 《设计模式就该这样学，基于经典框架源码和真实业务场景》
 
+### 已全面开启预售！！！
+
+### 京东购买链接：[https://item.jd.com/12699413.html](https://item.jd.com/12699413.html)
+### 当当购买链接：[http://product.dangdang.com/28994943.html](http://product.dangdang.com/28994943.html)
+
 Design Patterns: Elements of Reusable Object-Oriented Software（以下简称《设计模式》），一书由Erich Gamma、Richard Helm、Ralph Johnson和John Vlissides合著（Addison-Wesley，1995）。这四位作者常被称为“四人组（Gang of Four）”，而这本书也就被称为“四人组（或 GoF）”书。他们首次给我们总结出一套软件开发可以反复使用的经验，帮助我们提高代码的可重用性、系统的可维护性等，解决软件开发中的复杂问题。
 
 设计模式已诞生20多年，其间相继出版的关于设计模式的经典著作不计其数。如果说GoF的《设计模式》是设计模式领域的“圣经”，那么之后出版的各种关于设计模式的书籍可称为“圣经”的“批注版”或者“白话版”。本书正是基于GoF的《设计模式》来编写的。
