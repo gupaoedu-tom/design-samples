@@ -33,5 +33,5 @@ Design Patterns: Elements of Reusable Object-Oriented Software（以下简称《
 
 ### 推荐《[Spring 5核心原理与30个类手写实战](https://github.com/gupaoedu-tom/spring5-samples)》，4个月销量破万，连续占据畅销榜。
 
-### 推荐《[Netty 4核心原理与手写RPC框架实战](https://github.com/gupaoedu-tom/netty4-samples)》已全面开启预售！！！
+### 推荐《[Netty 4核心原理与手写RPC框架实战](https://github.com/gupaoedu-tom/netty4-samples)》，上架3个月，销量突破10000册。
 
